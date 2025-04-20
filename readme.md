@@ -28,7 +28,7 @@ Gradus Link: https://gradus.dev/labs/medicine-info-generator-using-gemini-5fQeKN
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vrijraj/medicine-info-generator-gemini.git
+git clone https://github.com/rishigandhi612/medicineinfo
 ```
 
 2. Replace the API key in the code with your own Google Gemini AI API key:
